@@ -7,11 +7,8 @@ This is a solution to the _______ project of the Make It Real course.
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -20,11 +17,14 @@ This is a solution to the _______ project of the Make It Real course.
 
 ### The challenge
 
-Users should be able to:
+Su desafío es construir este componente de tarjeta de vista previa y lograr que se parezca lo más posible al diseño.
 
-- Task 1
-- Task 2
+Puedes usar cualquier herramienta que te guste para ayudarte a completar el desafío. Entonces, si tienes algo que te gustaría practicar, no dudes en intentarlo.
 
+Tus usuarios deberían poder:
+
+Ver el diseño óptimo según el tamaño de pantalla de su dispositivo
+Ver hover y focus para elementos interactivos
 ### Screenshot
 
 ![](./screenshot.jpg)
@@ -34,9 +34,6 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-
-## My process
 
 ### Built with
 
@@ -67,21 +64,16 @@ const proudOfThisFunc = () => {
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 1](https://github.com/makeitrealcamp/challenges-top/tree/main/html-css/nft-preview-card) - This helped me for picture, icon and design
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [Jessica Paniagua](https://github.com/00Jess00)
+
 
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Entender la estructura del diseño
